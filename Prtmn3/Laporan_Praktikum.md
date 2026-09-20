@@ -14,4 +14,4 @@ lingkungan lokal.
 
 
 Laporan Keberhasilan
-![alt.text].(Tampilan UI web.jpg) 
+![Tampiolan-UI-web.jpg].(Tampiolan-UI-web.jpg) 
