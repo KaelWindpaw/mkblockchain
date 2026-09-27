@@ -99,7 +99,7 @@ Melalui praktikum ini, konsep dasar blockchain — meliputi *hashing*, *Proof of
 
 ---
 
-Laporan ini disusun berdasarkan hasil analisis dari kode `Furrapp.py` dan `databasecore.py`. Bagian identitas praktikan, tanggal pelaksanaan, dan nomor modul dapat disesuaikan sesuai format laporan resmi yang berlaku di institusi masing-masing.*
+Laporan ini disusun berdasarkan hasil analisis dari kode `Furrapp.py` dan `databasecore.py`. 
 
 Laporan Keberhasilan
 
@@ -107,7 +107,7 @@ Laporan Keberhasilan
 ![Halaman awal saat user menambahkan hash.png](Halaman-awal-saat-user-menambahkan-hash.png)
 ![Halaman Verifikasi.png](Halaman-Verifikasi.png)
 ![Katalog and Stok.png](Katalog-and-Stok.png)
-![Analytic page.png](Analytic-page.png)
+![Analytic Page.png](Analytic-Page.png)
 ![manajemen-page.png](manajemen-page.png)
 ![chat.png](chat.png)
 ![login reg.png](login-reg.png)
