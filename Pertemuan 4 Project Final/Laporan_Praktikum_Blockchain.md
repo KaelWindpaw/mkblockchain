@@ -110,4 +110,4 @@ Laporan Keberhasilan
 ![Analytic Page.png](Analytic-Page.png)
 ![manajemen-page.png](manajemen-page.png)
 ![chat.png](chat.png)
-![login reg.png](login-reg.png)
+
