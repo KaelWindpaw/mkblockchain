@@ -2,7 +2,6 @@ import hashlib
 import time
 from datetime import datetime, timezone
 
-# 1. Mendefinisikan Struktur Data Tunggal (Satu Blok)
 class Block:
     def __init__(self, index, data, prev_hash):
         self.index = index
@@ -28,7 +27,6 @@ class Block:
 
             print(f"Block Mined! Nonce: {self.nonce} | Hash: {self.hash}")
 
-# 2. Mendefinisikan Rantai Blok (Manajer Kumpulan Blok)
 class Blockchain:
     def __init__(self):
         self.chain = [self.create_genesis_block()]
@@ -42,20 +40,17 @@ class Blockchain:
 
     def add_block(self, new_block):
         new_block.previous_hash = self.get_latest_block().hash
-        # ATRIBUT BARU: Panggil fungsi mining sebelum blok ditambahkan ke rantai
         new_block.mine_block(self.difficulty)
         self.chain.append(new_block)
 
     def is_chain_valid(self):
-        # Loop dari blok ke-1 (setelah Genesis) sampai akhir
         for i in range(1, len(self.chain)):
             current_block = self.chain[i]
             previous_block = self.chain[i-1]
-
-            # Cek apakah hash saat ini valid
+  
             if current_block.hash != current_block.calculate_hash():
                 return False
-            # Cek apakah pointer prev_hash merujuk ke blok sebelumnya dengan benar
+        
             if current_block.previous_hash != previous_block.hash:
                 return False
         return True
