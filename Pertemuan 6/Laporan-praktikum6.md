@@ -10,7 +10,7 @@ Setelah menyelesaikan praktikum ini, mahasiswa diharapkan mampu:
 ### Proses Praktikum ###
 
 1. Buka [Remix IDE](https://ethereum.org) login via Gmail, bukti:
-![ScreenshotRemixIDE.png](Screenshot-Remix-IDE.png)
+![ScreenshotRemixIDE.png](ScreenshotRemixIDE.png)
 
 2. Create a New file di files dengan nama file SupplyChainKopi.sol isi koding sesuai dengan modul
 ![newFile.png](newFile.png)
