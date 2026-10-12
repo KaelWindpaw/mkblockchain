@@ -1,5 +1,11 @@
 # Laporan Analisis Smart Contract: `ComputerStoreLedger`
 
+**Nama Kelompok**
+1. Abie Prayoga Alfarisi
+2. Nazwa Nabilla
+3. Marsel
+
+
 | Item | Keterangan |
 |---|---|
 | **File** | `ComputerStoreLedger.sol` |
