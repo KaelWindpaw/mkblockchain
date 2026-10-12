@@ -290,4 +290,5 @@ Kontrak ini berhasil menerjemahkan konsep blockchain sederhana dari Python ke So
 
 ---
 
-*Laporan ini dibuat berdasarkan tinjauan statis terhadap kode sumber; kontrak belum dikompilasi atau diuji secara dinamis dalam laporan ini.*
+Laporan Keberhasilan
+![tampilan.png](tampilan.png)
