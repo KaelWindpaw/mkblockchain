@@ -6,7 +6,7 @@
 2. Jika belum tersedia instal via https://nodejs.org/en/download
 3. bukti node Js dan NPM
 
-<img src="npmnode3.jpg" width=50% />
+<img src="npmnode3.png" width=50% />
 
 4. Buat folder baru nama dApps
 5. Open Terminal dan CD ke dalam folder tersebut
